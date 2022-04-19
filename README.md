@@ -1,9 +1,10 @@
 # Notes App in React
 
-See it online: 
+See it online: https://gleaming-cheesecake-f8021e.netlify.app/
 
 - User can add or remove notes
 - Note contains text and date the note was created
+- Max character limit per note is 200
 - Notes are saved in local storage and survive browser refreshes
 - Search bar looks for corresponding text in notes
 - When you add a new note search bar's text resets
