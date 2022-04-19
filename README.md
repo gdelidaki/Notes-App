@@ -1,3 +1,14 @@
+# Notes App in React
+
+See it online: 
+
+- User can add or remove notes
+- Note contains text and date the note was created
+- Notes are saved in local storage and survive browser refreshes
+- Search bar looks for corresponding text in notes
+- When you add a new note search bar's text resets
+- Dark Mode preference and search bar text also survive browser refreshes
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
